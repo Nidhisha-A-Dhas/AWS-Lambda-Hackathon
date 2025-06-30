@@ -1,6 +1,7 @@
 # AWS-Lambda-Hackathon
 
 Braille Audio Translator (Indian Languages):
+
 Braille Audio Translator is a serverless, multilingual accessibility application designed to convert spoken audio into Braille text in major Indian languages. Built on AWS, it helps visually impaired users receive content in regional Braille scripts.
 This serverless application takes audio input, converts it to text, translates it into a selected Indian language (Tamil, Hindi, Telugu, Malayalam, Kannada), and outputs the result in Unicode Braille format. The application is built using AWS Lambda, Amazon S3, Amazon Transcribe, and Amazon Translate.
 
